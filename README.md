@@ -100,6 +100,7 @@ MQBCoding Main
 ```
 
 # How to use the new screens
+For a detailed, Green Menu-aligned overview of every toolbox script (purpose, expected inputs/outputs, storage impact, and backup guidance), see [docs/scripts.md](docs/scripts.md).
 Most screens have a description inside, or show information when running a script. It's always wise to have an SD-card in slot 1.
 
 ## dump
