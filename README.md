@@ -1,4 +1,6 @@
 # MIB2 High toolbox
+English | [简体中文](README.zh-CN.md)
+
 The ultimate MIB2-HIGH toolbox for all your MIB2 High customization needs.
 
 Note: this screen has the potential to ruin your MIB2 HIGH unit. The developers are not responsible for any troubles to anyone or anything caused by this toolbox.
